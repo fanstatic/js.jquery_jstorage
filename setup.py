@@ -37,6 +37,7 @@ setup(
         'fanstatic',
         'setuptools',
         'js.jquery',
+        'js.json2',
         ],
     entry_points={
         'fanstatic.libraries': [

@@ -4,8 +4,7 @@ CHANGES
 0.3.3 (unreleased)
 ==================
 
-- Nothing changed yet.
-
+- Depend on JSON2 for pre-IE8.
 
 0.3.2 (2013-02-28)
 ==================
